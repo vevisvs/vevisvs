@@ -1,11 +1,7 @@
 ### Hola, soy Vevis 👋
+Soy estudiante de programación. Actualmente estoy cursando la carrera de Certified Tech Developer.
 
-const vevisvs = {
-  pronouns: "she" | "her",
-  code: [JavaScript, HTML, CSS, Java]
-  tools: [React, jest]
-}
-
-[![vevisvs's GitHub stats](https://github-readme-stats.vercel.app/api?username=vevisvs)](https://github.com/anuraghazra/github-readme-stats)
+code: [JavaScript, HTML, CSS, Java]
+tools: [React, jest]
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vevisvs&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
